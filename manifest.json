@@ -1,11 +1,11 @@
 {
-    "name":"smart wallet",
-    "description":"for learning purpose",
-    "version":"1.0",
-    "manifest_version":3,
-     "action":{
-        "default_popup":"popup.html",
-        "default_icon":"favicon.png"
-     },
-     "permissions":["tabs","bookmarks","unlimitedStorage","nativeMessaging"]
+    "name": "smart wallet",
+    "description": "transfer funds to any wallet",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "favicon.png"
+    },
+    "permissions": ["tabs", "bookmarks", "unlimitedStorage", "nativeMessaging"]
 }
