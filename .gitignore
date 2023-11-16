@@ -1,0 +1,4 @@
+/chromeapi/node_modules
+/chromeapi/.env
+/node_modules
+.vscode
